@@ -5,8 +5,9 @@ If you're a member of the 'docker' group on a machine, this command gives you a
 root shell on the host OS. [See my blog post for
 details](https://fosterelli.co/privilege-escalation-via-docker).
 
-Supported architectures: amd64, arm64, arm/v7
+Supported architectures: amd64, arm64, arm/v7.  
 Original Repository: [rootplease](https://github.com/chrisfosterelli/dockerrootplease)
+
 How to Use
 ----------
 
